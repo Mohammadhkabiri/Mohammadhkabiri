@@ -1,4 +1,5 @@
-<img src="https://images.unsplash.com/photo-1506744626753-1fa44df31c2a?q=80&w=2000&auto=format&fit=crop" alt="Banner" width="100%" height="250" style="object-fit: cover;" />
+<img src="https://images.unsplash.com/photo-1419242902214-272b3f66ee7a?auto=format&fit=crop&w=2000&q=80" alt="Galaxy Banner" width="100%" height="250" style="object-fit: cover;" />
+
 
 # Hi! I'm Mohammad 👋
 
