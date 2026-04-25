@@ -1,4 +1,8 @@
 ## Hi there 👋
+
+- 💻 Full Stack Developer at Dadgar Lawyers Law Firm
+- 📫 How to reach me: [m.kabiri.s1385@gmail.com](mailto:m.kabiri.s1385@gmail.com)
+
 ### 🌐 Socials:
 
 <p align="left">
@@ -29,11 +33,11 @@
 
 ### 📊 GitHub Stats:
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohammadhkabiri&theme=tokyonight" alt="GitHub Streak" />
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Mohammadhkabiri&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohammadhkabiri&theme=tokyonight" alt="GitHub Streak" />
+</div>
+<br>
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammadhkabiri&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
+</div>
