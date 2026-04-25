@@ -1,4 +1,7 @@
 <img src="https://images.unsplash.com/photo-1419242902214-272b3f66ee7a?auto=format&fit=crop&w=2000&q=80" alt="Galaxy Banner" width="100%" height="250" style="object-fit: cover;" />
+<img src="https://images.unsplash.com/photo-1550439062-609e1531270e?auto=format&fit=crop&w=2000&q=80" alt="Programming Banner" width="100%" height="250" style="object-fit: cover;" />
+<img src="https://images.unsplash.com/photo-1620641788421-7a1c342ea42e?auto=format&fit=crop&w=2000&q=80" alt="AI Abstract Banner" width="100%" height="250" style="object-fit: cover;" />
+<img src="https://images.unsplash.com/photo-1499951360447-b19be8fe80f5?auto=format&fit=crop&w=2000&q=80" alt="Workspace Banner" width="100%" height="250" style="object-fit: cover;" />
 
 
 # Hi! I'm Mohammad 👋
