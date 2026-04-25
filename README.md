@@ -1,7 +1,11 @@
 ## Hi there 👋
+
+### 🌐 About Me:
+
 - 📚 Computer Engineering Student at the University of Tehran
 - 💻 Full Stack Developer at Dadgar Lawyers Law Firm
 - 📫 How to reach me: [m.kabiri.s1385@gmail.com](mailto:m.kabiri.s1385@gmail.com)
+- 👨🏼‍💻 I’m currently learning **Artificial Intelligence and related topics**
 
 ### 🌐 Socials:
 
