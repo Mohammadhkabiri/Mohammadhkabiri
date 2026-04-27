@@ -44,7 +44,7 @@
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=mohammadhkabiri&show_icons=true&theme=tokyonight&count_private=true" alt="Mohammadhkabiri's GitHub Stats" />
   <br>
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadhkabiri&layout=compact&theme=tokyonight" alt="Mohammadhkabiri's Top Languages" />
-  <img width="49%" height="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=mohammadhkabiri&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38eca2&hide_border=true" alt="Mohammadhkabiri's Contribution Graph" />
+  <img width="99%" src="https://github-readme-activity-graph.vercel.app/graph?username=mohammadhkabiri&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38eca2&hide_border=true" alt="Mohammadhkabiri's Contribution Graph" />
 </div>
 
 
