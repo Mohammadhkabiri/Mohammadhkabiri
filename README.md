@@ -40,26 +40,19 @@
 
 ### 📊 GitHub Stats:
 
-<table align="center">
-  <tr>
-    <td colspan="2">
-      <img src="https://github-readme-stats.vercel.app/api?username=mohammadhkabiri&show_icons=true&theme=tokyonight&count_private=true" alt="Mohammadhkabiri's GitHub Stats" />
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://streak-stats.demolab.com/?user=mohammadhkabiri&theme=tokyonight" alt="Mohammadhkabiri's GitHub Streak" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadhkabiri&layout=compact&theme=tokyonight" alt="Mohammadhkabiri's Top Languages" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohammadhkabiri&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38eca2&hide_border=true" alt="Mohammadhkabiri's Contribution Graph" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mohammadhkabiri&show_icons=true&theme=tokyonight&count_private=true" alt="Mohammadhkabiri's GitHub Stats" />
+  
+  <br><br> 
+  
+  <img src="https://streak-stats.demolab.com/?user=mohammadhkabiri&theme=tokyonight" alt="Mohammadhkabiri's GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadhkabiri&layout=compact&theme=tokyonight" alt="Mohammadhkabiri's Top Languages" />
+  
+  <br><br> 
+  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohammadhkabiri&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38eca2&hide_border=true" alt="Mohammadhkabiri's Contribution Graph" />
+</div>
+
 
 
 
