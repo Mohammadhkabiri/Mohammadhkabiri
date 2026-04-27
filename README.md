@@ -38,26 +38,12 @@
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
 </p>
 
-
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=mohammadkabiri&theme=radical&no-bg=true&margin-w=15" alt="Trophies" />
-  </a>
-</p>
-
-
 ### 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohammadkabiri&theme=radical" width="48%" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api?username=mohammadkabiri&show_icons=true&theme=radical" width="48%" alt="GitHub Stats" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Mohammadhkabiri&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Mohammadhkabiri&theme=tokyonight" alt="GitHub Streak" />
 </p>
-
-<ه->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadkabiri&layout=compact&theme=radical" width="48%" alt="Top Languages" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohammadkabiri&theme=radical&bg_color=141321&hide_border=true" width="48%" alt="Contribution Graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammadhkabiri&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
-
-
