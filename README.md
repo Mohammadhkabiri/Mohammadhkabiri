@@ -40,10 +40,24 @@
 
 ### 📊 GitHub Stats:
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Mohammadhkabiri&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Mohammadhkabiri&theme=tokyonight" alt="GitHub Streak" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammadhkabiri&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
+<table align="center">
+  <tr>
+    <td colspan="2">
+      <img src="https://github-readme-stats.vercel.app/api?username=mohammadhkabiri&show_icons=true&theme=tokyonight&count_private=true" alt="Mohammadhkabiri's GitHub Stats" />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?username=mohammadhkabiri&theme=tokyonight" alt="Mohammadhkabiri's GitHub Streak" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadhkabiri&layout=compact&theme=tokyonight" alt="Mohammadhkabiri's Top Languages" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohammadhkabiri&theme=tokyonight" alt="Mohammadhkabiri's Contribution Graph" />
+    </td>
+  </tr>
+</table>
+
