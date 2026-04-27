@@ -40,11 +40,10 @@
 
 ### 📊 GitHub Stats:
 <div align="center">
-  <img width="49%" src="https://streak-stats.demolab.com/?user=mohammadhkabiri&theme=tokyonight" alt="Mohammadhkabiri's GitHub Streak" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=mohammadhkabiri&show_icons=true&theme=tokyonight&count_private=true" alt="Mohammadhkabiri's GitHub Stats" />
+  <img width="33%" src="https://streak-stats.demolab.com/?user=mohammadhkabiri&theme=tokyonight" alt="Mohammadhkabiri's GitHub Streak" />
   <br>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadhkabiri&layout=compact&theme=tokyonight" alt="Mohammadhkabiri's Top Languages" />
-  <img width="99%" src="https://github-readme-activity-graph.vercel.app/graph?username=mohammadhkabiri&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38eca2&hide_border=true" alt="Mohammadhkabiri's Contribution Graph" />
+  <img width="33%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadhkabiri&layout=compact&theme=tokyonight" alt="Mohammadhkabiri's Top Languages" />
+  <img width="33%" src="https://github-readme-activity-graph.vercel.app/graph?username=mohammadhkabiri&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38eca2&hide_border=true" alt="Mohammadhkabiri's Contribution Graph" />
 </div>
 
 
