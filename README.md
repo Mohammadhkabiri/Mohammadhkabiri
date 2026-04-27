@@ -44,6 +44,11 @@
   <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadhkabiri&layout=compact&theme=tokyonight" alt="Mohammadhkabiri's Top Languages" />
   <br><br>
   <img width="99%" src="https://github-readme-activity-graph.vercel.app/graph?username=mohammadhkabiri&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38eca2&hide_border=true" alt="Mohammadhkabiri's Contribution Graph" />
+    <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mohammadhkabiri/mohammadhkabiri/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mohammadhkabiri/mohammadhkabiri/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mohammadhkabiri/mohammadhkabiri/output/github-contribution-grid-snake.svg" width="100%">
+  </picture>
 </div>
 
 
