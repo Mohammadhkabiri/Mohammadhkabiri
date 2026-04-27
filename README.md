@@ -39,19 +39,16 @@
 </p>
 
 ### 📊 GitHub Stats:
-
 <div align="center">
+  <img src="https://streak-stats.demolab.com/?user=mohammadhkabiri&theme=tokyonight" alt="Mohammadhkabiri's GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api?username=mohammadhkabiri&show_icons=true&theme=tokyonight&count_private=true" alt="Mohammadhkabiri's GitHub Stats" />
   
-  <br><br> 
+  <br> <!-- رفتن به خط بعدی برای ردیف دوم -->
   
-  <img src="https://streak-stats.demolab.com/?user=mohammadhkabiri&theme=tokyonight" alt="Mohammadhkabiri's GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadhkabiri&layout=compact&theme=tokyonight" alt="Mohammadhkabiri's Top Languages" />
-  
-  <br><br> 
-  
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohammadhkabiri&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38eca2&hide_border=true" alt="Mohammadhkabiri's Contribution Graph" />
 </div>
+
 
 
 
