@@ -48,7 +48,8 @@
   </tr>
   <tr>
     <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?username=mohammadhkabiri&theme=tokyonight" alt="Mohammadhkabiri's GitHub Streak" />
+      <!-- مشکل این خط حل شد: username به user تغییر یافت -->
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohammadhkabiri&theme=tokyonight" alt="Mohammadhkabiri's GitHub Streak" />
     </td>
     <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadhkabiri&layout=compact&theme=tokyonight" alt="Mohammadhkabiri's Top Languages" />
@@ -56,8 +57,10 @@
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohammadhkabiri&theme=tokyonight" alt="Mohammadhkabiri's Contribution Graph" />
+      <!-- مشکل رنگ این خط با دادن کدهای رنگ تم Tokyo Night حل شد -->
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohammadhkabiri&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38eca2&hide_border=true" alt="Mohammadhkabiri's Contribution Graph" />
     </td>
   </tr>
 </table>
+
 
