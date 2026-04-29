@@ -9,7 +9,7 @@
 - 💻 Full Stack Developer at Dadgar Lawyers Law Firm
 - 📫 How to reach me: [m.kabiri.s1385@gmail.com](mailto:m.kabiri.s1385@gmail.com)
 - 👨🏼‍💻 I’m currently learning **Artificial Intelligence and related topics**
-- 📄 Feel free to check out my [resume](https://raw.githubusercontent.com/MohammadhKabiri/MohammadhKabiri/main/resume.pdf) for more about my experience. I'm always open to suggestions!
+- 📄 Feel free to check out my [resume](https://raw.githubusercontent.com/MohammadhKabiri/MohammadhKabiri/main/Mohammad-Hossein-Kabiri-Resume.pdf) for more about my experience. I'm always open to suggestions!
 ### 🌐 Socials:
 
 <p align="left">
